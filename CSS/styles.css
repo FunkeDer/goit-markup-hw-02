@@ -39,7 +39,7 @@ a{
     font-style: normal;
 }
 
-.haeder-address-a{
+.header-address-a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -131,4 +131,7 @@ a{
     line-height: 1.5 ;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+.third-section-li{
+    background-color: #ffffff;
 }
