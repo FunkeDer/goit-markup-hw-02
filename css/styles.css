@@ -60,7 +60,7 @@ a{
     background-color: #2e2f42;
 }
 
-.first-section-h1{
+.first-section-h{
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -87,7 +87,7 @@ a{
     background-color: #404bbf;
 }
 
-.second-section-h3{
+.second-section-h-three{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -106,7 +106,7 @@ a{
     
 }
 
-.third-section-h2{
+.third-section-h-two{
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -118,15 +118,7 @@ a{
 .third-section-li{
     background-color: #FFFFFF;
 }
-.third-section-h3{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-}
-
-.third-section-h3{
+.third-section-h-three{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
